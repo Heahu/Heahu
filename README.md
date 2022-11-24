@@ -8,11 +8,12 @@
 Hi, I'm ✨Haeun✨<br/>
 My goal is to give good influence to society.<br/>
 Have a day full of JOY today. <br/><br/>
- 
+
+ <h4>
 🤍안녕하세요! 새로운 분야를 배우고 공부하는 것을 좋아하는 신입개발자 입니다.<br/>
 💙C#과 WPF를 주로 사용하고 현재 (주)온카드시스템 에서 Windows 소프트웨어 개발자로 근무하고 있습니다.<br/>
 💜재활용성 높고, 유지보수가 편리한 코드를 작성해 다른 사람들과 공유하고 싶습니다!<br/>
-
+ </h4>
 
 <a href="matilto:sincerobbed@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/haeun-jeong-959b46228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
