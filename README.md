@@ -29,9 +29,9 @@ Have a day full of JOY today.
 <br>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-f0f0f0?style=flat-square&logo=Unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/><br>
  
-<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heahu&show_icons=true&theme=dracula)
  
 </div>
