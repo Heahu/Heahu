@@ -25,8 +25,8 @@ Have a day full of JOY today.
 <br/>
 
 
-<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
  <br>
  
  
