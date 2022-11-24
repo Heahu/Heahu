@@ -4,7 +4,7 @@
 <div align = "center">
 
 <br/>
-<h3>Hello World!🥳</h3><br/>
+<h2>Hello World!🥳</h2><br/>
 Hi, I'm ✨Haeun✨<br/>
 My goal is to give good influence to society.<br/>
 Have a day full of JOY today.
