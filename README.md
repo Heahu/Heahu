@@ -9,7 +9,7 @@ Hello, I'm ✨Haeun✨<br/>
 My goal is to give good influence to society.<br/>
 Have a day full of JOY today.
 
-<br/><br/>
+<br/>
 
 <a href="matilto:sincerobbed@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/haeun-jeong-959b46228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
