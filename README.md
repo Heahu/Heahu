@@ -27,7 +27,7 @@ Have a day full of JOY today.
 
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/Unity-e6e6e6?style=flat-square&logo=Unity&logoColor=black"/>
 <br>
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
