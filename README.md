@@ -5,10 +5,9 @@
 
 <br/>
 <h3>Hello World!🥳</h3><br/>
-Hello, I'm Haeun.<br/>
+Hello, I'm ✨Haeun✨<br/>
 My goal is to give good influence to society.<br/>
 Have a day full of JOY today.
-
 
 <br/><br/>
 
@@ -21,8 +20,7 @@ Have a day full of JOY today.
 <br/><br/>
  
 <h3>💻 Tech Stack 💻</h3>
- 
-<br/>
+
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
@@ -33,20 +31,6 @@ Have a day full of JOY today.
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
 
  
- 
- <!--
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
--->
 </div>
 
 <br/>
