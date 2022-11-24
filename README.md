@@ -17,7 +17,7 @@ Have a day full of JOY today.
 
  <br/>
  <br/>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heahu&show_icons=true&theme=highcontrast)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heahu&show_icons=true&theme=dracula)
  
  
 
