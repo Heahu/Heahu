@@ -9,7 +9,7 @@ Hi, I'm ✨Haeun✨<br/>
 My goal is to give good influence to society.<br/>
 Have a day full of JOY today. <br/><br/>
 
-🤍안녕하세요! 새로운 분야를 배우고 공부하는 것을 좋아하는 신입 1년차 개발자 입니다.<br/>
+🤍안녕하세요! 새로운 분야를 배우고 공부하는 것을 좋아하는 1년차 개발자 입니다.<br/>
 💙C#과 WPF를 주로 사용하고 현재 (주)온카드시스템 에서 Windows 소프트웨어 개발자로 근무하고 있습니다.<br/>
 💜재활용성 높고, 유지보수가 편리한 코드를 작성해 다른 사람들과 공유하고 싶습니다!<br/>
 
@@ -28,7 +28,7 @@ Have a day full of JOY today. <br/><br/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-f0f0f0?style=flat-square&logo=Unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heahu&show_icons=true&theme=dracula)
 
